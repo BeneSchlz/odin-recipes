@@ -1,0 +1,24 @@
+h2{
+    color: blue;
+    font-weight: bold;
+}
+
+.list{
+    font-weight: bold;
+}
+
+#div {
+    color: blue;
+}
+
+h1 {
+    padding: 8px 24px;
+}
+
+li {
+    padding: auto;
+}
+
+img {
+    padding: 8px 24px;
+}
